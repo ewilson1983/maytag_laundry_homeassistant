@@ -1,0 +1,42 @@
+{
+  "washer": {
+    "applianceState": "standby",
+    "cycleName": "cleanWasher1",
+    "cycleType": "standard",
+    "specialName": "",
+    "currentPhase": "",
+    "washTemperature": "extraHot",
+    "steam": "on",
+    "cycleTime": {
+      "state": "idle",
+      "time": 5278,
+      "timeComplete": 1794198226,
+      "timePaused": 1794197400
+    },
+    "delayTime": {
+      "state": "idle",
+      "time": 0,
+      "timeComplete": 0,
+      "timePaused": 0
+    },
+    "sessionId": "",
+    "cleanWasher": false,
+    "doorStatus": "open",
+    "doorLockStatus": false
+  },
+  "remoteStartEnable": false,
+  "hmiControlLockout": false,
+  "faultHistory": [
+    "none",
+    "none",
+    "none",
+    "none",
+    "none"
+  ],
+  "activeFault": "none",
+  "sound": {
+    "cycleSignal": "min"
+  },
+  "capabilityPartNumber": "W11812024",
+  "systemVersion": "6.0.0"
+}
